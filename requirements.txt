@@ -6,4 +6,5 @@ numpy
 pandas
 scikit-learn
 matplotlib
-supabase-py
+supabase
+
