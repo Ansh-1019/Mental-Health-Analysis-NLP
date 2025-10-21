@@ -3,6 +3,7 @@ transformers
 torch
 shap
 numpy
-scikit-learn
 pandas
+scikit-learn
 matplotlib
+supabase-py
