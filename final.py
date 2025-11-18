@@ -136,6 +136,7 @@ input:focus {
 # ---------------- Load Models & Explainer ----------------
 @st.cache_resource
 def load_models_and_explainer():
+    hf_token = "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"
     model_name = "vedabtpatil07/Mental-Health-Analysis"
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -350,3 +351,4 @@ if "last_prediction" in st.session_state:
             st.error(f"❌ Failed to save feedback: {e}")
 else:
     st.info("Analyze some text first to submit feedback.")
+
