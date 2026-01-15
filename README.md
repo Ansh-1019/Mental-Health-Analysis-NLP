@@ -55,7 +55,7 @@ This project leverages **Natural Language Processing (NLP)** and **transformer-b
 https://huggingface.co/vedabtpatil07/Mental-Health-Analysis
 
 🔗 **Kaggle Dataset**  
-*(Add your Kaggle dataset link here)*
+https://www.kaggle.com/datasets/anshjaiswal101/mental-health-analysis
 
 ---
 
