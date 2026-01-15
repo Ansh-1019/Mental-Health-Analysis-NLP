@@ -75,4 +75,61 @@ text = "I feel exhausted and hopeless lately."
 result = classifier(text)
 
 print(result)
+```
 
+## 🌐 Streamlit Web App
+
+A user-friendly Streamlit frontend is included to:
+
+- Input text
+
+- View predicted class
+
+- See confidence scores with visual indicators
+
+Run locally:
+
+```python
+pip install streamlit transformers torch
+streamlit run app.py
+```
+## ⚠️ Ethical Disclaimer
+
+- This project is intended only for research and educational purposes.
+- It is not a substitute for professional medical advice, diagnosis, or treatment.
+- Predictions are probabilistic signals and should not be used for clinical decision-making.
+
+## ⚠️ Limitations
+
+- Social media language may include sarcasm or exaggeration
+
+- Cultural and demographic biases may exist
+
+- False positives and negatives are possible
+
+- Requires human oversight for real-world applications
+
+## 📚 Technologies Used
+
+- Python
+
+- Hugging Face Transformers
+
+- PyTorch
+
+- Scikit-learn
+
+- Streamlit
+
+- Pandas, NumPy
+
+## 📄 License
+
+This project is released under the MIT License.
+Feel free to use, modify, and build upon it with attribution.
+
+## ✍️ Authors
+
+- Ansh Jaiswal
+
+- Vedant Patil
