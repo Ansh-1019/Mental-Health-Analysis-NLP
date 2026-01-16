@@ -91,7 +91,7 @@ Run locally:
 
 ```python
 pip install streamlit transformers torch
-streamlit run app.py
+streamlit run final.py
 ```
 ## ⚠️ Ethical Disclaimer
 
