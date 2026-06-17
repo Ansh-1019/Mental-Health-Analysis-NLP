@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+shap
+pandas
+numpy==1.26.4
+scikit-learn
+matplotlib
+supabase
