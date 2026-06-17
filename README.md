@@ -10,6 +10,7 @@ An AI-powered web application for analyzing emotional and mental health expressi
 * **Explainable AI (XAI)**: Generates detailed textual and visual SHAP force plots to show exactly which words influenced the prediction (positive or negative impact).
 * **Feedback Loop**: Submits user-provided feedback (correctness, corrected labels, and comments) to a Supabase database instance.
 * **Modern UI**: Streamlit interface customized with premium linear gradients, modern typography, glassmorphism-style cards, and custom CSS modifications for dark-theme SHAP plots.
+* **Custom Dataset**: Trained on a custom dataset created by the author, which is available on Kaggle: [Mental Health Analysis Dataset](https://www.kaggle.com/datasets/anshjaiswal101/mental-health-analysis).
 
 ---
 
